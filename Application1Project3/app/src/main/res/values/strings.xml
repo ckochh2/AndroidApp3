@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Application1Project3</string>
+    <string-array name="landmarks">
+        <item>Museum of Science and Industry</item>
+        <item>Wrigley Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Chicago Harbor Lighthouse</item>
+        <item>Abraham Lincoln Monument</item>
+        <item>Village Theatre</item>
+    </string-array>
+    <string-array name="URLs">
+        <item>https://www.msichicago.org/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>http://www.lighthousefriends.com/</item>
+        <item>https://www.nps.gov/linc/index.htm</item>
+        <item>http://cinematreasures.org/theaters/409</item>
+    </string-array>
+</resources>
